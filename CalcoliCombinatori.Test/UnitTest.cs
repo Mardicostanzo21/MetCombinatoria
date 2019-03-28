@@ -22,5 +22,6 @@ namespace CalcoliCombinatori.Test
 
             Assert.AreEqual(Fattoriale, N2);
         }
+
     }
 }
